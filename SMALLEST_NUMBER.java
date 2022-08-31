@@ -1,6 +1,8 @@
 package academy.learnprogramming;
 
 public class SMALLEST_NUMBER {
+    
+    // here the concept is just same like the binary search code just search for letters and return the next greatest letter
     public static void main(String[] args) {
        char [] letters = {'c','f','j'};
        char target = 'c';
